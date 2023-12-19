@@ -7,5 +7,5 @@ proxy-dns-upstream:
   - https://[2606:4700:4700::1001]/dns-query
 deploy:
   type: git
-  repository: https://github.com/hxf236386915/hxf236386915.github.io.git
+  repository: https://github.com/hxf236386915/zy001227.github.io.git
   branch: master
